@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Groggula
-- 👀 I’m interested in metal, music production, guitars, gin, tech.
-- 🌱 I’m currently learning React and Typescript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in metal, music production, guitars, gin, games.
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on any game production
 - 📫 How to reach me ...
 
 <!---
